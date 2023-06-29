@@ -1,5 +1,0 @@
-Principais diferenças de uma Struct e uma Class:
-
-CLASS possui herança, STRUCT não.
-CLASS possui encapsulamento, STRUCT é publico.
-CLAS possui polimorfismo, STRUCT não.
